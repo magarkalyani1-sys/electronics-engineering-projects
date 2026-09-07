@@ -44,6 +44,6 @@ To develop strong practical skills in Electronics, Embedded Systems, and VLSI an
 - 📧 Email: your-email@example.com
 - 💼 LinkedIn: https://www.linkedin.com/in/your-profile/
 
----
+----
 
 Electronics & Telecommunication Engineering Student
